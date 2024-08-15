@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Full stack developer
-- 🌱 I’m currently learning python-Django,QA,HTML,CSS,PHP.
+- 🔭 I’m currently working on SEO Analyst
+- 🌱 I’m currently learning QA,OFFpage seo.
 - 👯 I’m looking to collaborate on Youtube,Facebook,Google.
 - 🤔 I’m looking for help with Documentation.
-- 💬 Ask me about HTML,CSS,PYTHON-DJANGO,QA,FIGMA,UI-UX Design
-- 📫 How to reach me: https://www.instagram.com/rosneeranjit/
+- 📫 How to reach me: https://www.linkedin.com/in/roshani-ranjitkar-209155244/
 - 😄 Pronouns: she
 - ⚡ Fun fact: 
 
